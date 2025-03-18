@@ -7,3 +7,5 @@ main:
     url: /proposals/
   - title: "Events"
     url: /salons/
+  - title: "Other Meetings"
+    url: https://developer.blockchaincommons.com/meetings/
