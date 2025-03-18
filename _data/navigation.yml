@@ -1,11 +1,9 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Salons"
+    url: /salons/
   - title: "Discussions"
     url: "https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions/categories/silicon-salon"
-  - title: "Proposals"
-    url: /proposals/
-  - title: "Events"
-    url: /salons/
   - title: "Other Meetings"
     url: https://developer.blockchaincommons.com/meetings/
