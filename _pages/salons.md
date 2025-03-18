@@ -5,7 +5,8 @@ layout: single
 classes:
   - wide
 author_profile: true
-sidebar: main
+sidebar:
+  nav: main
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
